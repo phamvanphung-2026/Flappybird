@@ -1,0 +1,6 @@
+{
+  "name": "VietinBank Flappy Bird",
+  "description": "Mini-game Flappy Bird phiên bản VietinBank tại quầy giao dịch - Vượt chướng ngại vật rinh voucher xăng 2L và 4L",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
